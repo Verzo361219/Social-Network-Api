@@ -11,7 +11,7 @@ const reactionSchema = new Schema({
         maxlength: 300,
         required: true
     },
-    userName: {
+    username: {
         type: String,
         required: true
     },
@@ -33,7 +33,7 @@ const thoughtSchema = new Schema({
         minlength: 1,
         default: 'No Thought Here'
     },
-    userName: {
+    username: {
         type: String,
         required: true,
     },
