@@ -1,4 +1,4 @@
-# Social-Network-Api## Social Network Api
+# Social-Network-Api
 
 ![Badge](https://img.shields.io/badge/License-MIT-red)
 
